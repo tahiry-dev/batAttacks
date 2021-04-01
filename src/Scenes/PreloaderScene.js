@@ -1,7 +1,7 @@
 import Phaser from 'phaser';
 import greenButton1 from '../assets/ui/green_button02.png';
 import greenButton2 from '../assets/ui/green_button03.png';
-import phaserLogo from '../assets/logo.jpg';
+import phaserLogo from '../assets/logo.png';
 import box from '../assets/ui/unchecked.png';
 import checkedBox from '../assets/ui/greenChecked.png';
 import bgMusic from '../assets/Heroic.mp3';
@@ -10,7 +10,7 @@ import killedBat from '../assets/bat_dead.wav';
 import batSounds from '../assets/batsound.mp3';
 import heroDeath from '../assets/Hero_Death_00.mp3';
 import gameOverMusic from '../assets/GAMEOVER.wav';
-import tiles from '../assets/map/cyclope.jpg';
+import tiles from '../assets/map/cyclope.png';
 import map from '../assets/map/batmap.json';
 import player from '../assets/RPG_assets.png';
 import bat from '../assets/bat-sprite.png';

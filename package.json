@@ -2,10 +2,27 @@
   "name": "batattacks",
   "version": "1.0.0",
   "description": "game about bat attacks",
-  "main": "index.js",
+  "jest": {
+    "transform": {
+      "^.+\\.js?$": "babel-jest"
+    },
+    "setupFiles": [
+      "jest-canvas-mock"
+    ],
+    "moduleFileExtensions": [
+      "js",
+      "jsx"
+    ],
+    "moduleNameMapper": {
+      "\\.(css|less|sass|scss)$": "<rootDir>/src/_test_/mocks/styleMock.js",
+      "\\.(gif|ttf|eot|svg|png|ogg|wav|mp3)$": "<rootDir>/src/_test_/mocks/fileMock.js"
+    }
+  },
+  "main": "src/index.js",
   "scripts": {
     "build": "webpack --config webpack/base.js ",
     "start": "webpack-dev-server --config webpack/base.js --open",
+    "test": "jest --detectOpenHandles",
     "watch": "jest --watchAll --detectOpenHandles"
   },
   "author": "Tahiry RANDRIAMIARINTSOA",
