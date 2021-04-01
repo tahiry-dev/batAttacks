@@ -10,7 +10,9 @@ import killedBat from '../assets/bat_dead.wav';
 import batSounds from '../assets/batsound.mp3';
 import heroDeath from '../assets/Hero_Death_00.mp3';
 import gameOverMusic from '../assets/GAMEOVER.wav';
+/* eslint-disable import/no-unresolved */
 import tiles from '../assets/map/cyclope.png';
+/* eslint-enable import/no-unresolved */
 import map from '../assets/map/batmap.json';
 import player from '../assets/RPG_assets.png';
 import bat from '../assets/bat-sprite.png';

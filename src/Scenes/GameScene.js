@@ -260,7 +260,7 @@ export default class GameScene extends Phaser.Scene {
     this.upBtn = this.input.keyboard.addKey(Phaser.Input.Keyboard.KeyCodes.W);
     this.downBtn = this.input.keyboard.addKey(Phaser.Input.Keyboard.KeyCodes.S);
     this.rightBtn = this.input.keyboard.addKey(
-      Phaser.Input.Keyboard.KeyCodes.D
+      Phaser.Input.Keyboard.KeyCodes.D,
     );
     this.leftBtn = this.input.keyboard.addKey(Phaser.Input.Keyboard.KeyCodes.A);
     // add collider
