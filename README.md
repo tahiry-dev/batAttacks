@@ -23,12 +23,12 @@ many bats guided by demons
 
 > Follow these steps to setup this web application locally :
 
-1. - [ ] Open your `Terminal`.
-2. - [ ] Navigate to the directory where you will like to install the repo by running `cd FOLDER-NAME`
-3. - [ ] Download using `HTTPS` by running `git clone https://github.com/tahiry-dev/batAttacks.git` in the terminal.
-4. - [ ] Run `cd batAttacks` to enter directory.
-5. - [ ] Run `npm install` to install node packages and dependencies.
-6. - [ ] Run `npm run start` in your browser to start the application.
+- Open your `Terminal`.
+- Navigate to the directory where you will like to install the repo by running `cd FOLDER-NAME`
+- Download using `HTTPS` by running `git clone https://github.com/tahiry-dev/batAttacks.git` in the terminal.
+- Run `cd batAttacks` to enter directory.
+- Run `npm install` to install node packages and dependencies.
+- Run `npm run start` in your browser to start the application.
 
 
 ## Authors
