@@ -1,5 +1,5 @@
 # Story
-Enjoying peaceful forest land on your property in the countryside, suddenly,  there are many bats guided by a demon ready to eat you. Your objective is to remain alive by fighting these horror creatures and fortunately, you have equipped gun ready to shoot
+Enjoying peaceful forest land on your property in the countryside, suddenly,  there are many bats guided by a demon ready to eat you. Your objective is to remain alive by fighting these horror creatures and fortunately, you have an equipped gun ready to shoot
 
 # Gameplay
 
@@ -55,7 +55,7 @@ This project was built using [Phaser 3](https://phaser.io/phaser3), [Webpack](ht
 - Thanks to [OpenGameArt](https://opengameart.org/) for providing the free assets I used in this game.
 
 - Thanks to [Altegore](https://www.deviantart.com/Adviel) from DevianArt the amazing map I used in this game!
- ![map](./src/assets/map/map_min.png)
+ ![map](./Screenshots/cyclope.jpg)
 
 - Thanks to [Unsplash](https://unsplash.com/) for the image I used as logo
 
