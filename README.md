@@ -1,75 +1,48 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Bat Attacks
 
-> One paragraph statement about the project.
+> Bat Attakcs is a simple RPG Game that relate the story of a player that was attacked by
+many bats guided by demons
 
-![screenshot](./app_screenshot.png)
-
-Additional description about the project and its features.
+![screenshot](./Screenshots/shoot.png)
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- Javascript
+- Phaser 3 Game Framework
+- Tiled Map Editor
+- HTML
+- CSS
 
 ## Live Demo
 
 [Live Demo Link](https://livedemo.com)
 
+## Setup ⏳
 
-## Getting Started
+> Follow these steps to setup this web application locally :
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
-To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
-
+1. - [ ] Open your `Terminal`.
+2. - [ ] Navigate to the directory where you will like to install the repo by running `cd FOLDER-NAME`
+3. - [ ] Download using `HTTPS` by running `git clone https://github.com/tahiry-dev/batAttacks.git` in the terminal.
+4. - [ ] Run `cd batAttacks` to enter directory.
+5. - [ ] Run `npm install` to install node packages and dependencies.
+6. - [ ] Run `npm run start` in your browser to start the application.
 
 
 ## Authors
 
-👤 **Author1**
+👤 **Tahiry RANDRIAMIARINTSOA**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/linkedinhandle)
+- GitHub: [@tahiry-dev](https://github.com/tahiry-dev)
+- Twitter: [@tahiry](https://twitter.com/Tahiry94825074)
+- LinkedIn: [RANDRIAMIARINTSOA](https://www.linkedin.com/in/tahiry-randriamiarintsoa/)
 
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/linkedinhandle)
-
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome!
-
-Feel free to check the [issues page](issues/).
 
 ## Show your support
 
 Give a ⭐️ if you like this project!
-
-## Acknowledgments
-
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
 
 ## 📝 License
 
