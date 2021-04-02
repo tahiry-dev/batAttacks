@@ -11,7 +11,7 @@ many bats guided by demons. Please read the [Game Design Document](#game-design-
 
 [Game Design Document](./GAME_DESIGN_DOCUMENT.md)
 
-## Instructions on how to play the game
+## Game command
 
 You can control the player using a mouse and a keyboard. You can move around the map in all directions, holding a machine gun and shooting at the bats.
 
